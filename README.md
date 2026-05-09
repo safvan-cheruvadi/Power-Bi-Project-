@@ -32,8 +32,8 @@ india-electricity-dashboard/
 ├── report/
 │   └── India_Electricity_Dashboard.pbix      # Power BI report file
 │
-├── assets/
-│   └── homepage_preview.png                  # Home page screenshot
+├── dashbord images/
+│   └── Homepage.png cappacity.png consumption.png                 # dashbord  screenshot
 │
 └── README.md
 ```
@@ -67,7 +67,7 @@ The Excel workbook contains four sheets designed to be imported directly into Po
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/safvan/india-electricity-dashboard.git
+   git clone https://github.com/safvan-cheruvadi/Power-Bi-Project.git
    ```
 
 2. Open `data/India_Electricity_PowerBI_Data.xlsx` to explore the raw dataset
