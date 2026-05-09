@@ -105,7 +105,7 @@ The Excel workbook contains four sheets designed to be imported directly into Po
 Power BI · Data Analytics · Energy Sector
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-safvan-e-)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/safvan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://https://github.com/safvan-cheruvadi)
 
 ---
 
