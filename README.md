@@ -17,7 +17,7 @@ This project provides an interactive Power BI report covering India's electricit
 | **Dashboard 1 — Capacity** | Installed generation capacity breakdown: Solar, Wind, Hydro, Thermal, Nuclear, Bio |
 | **Dashboard 2 — Consumption** | State-wise annual consumption, per capita usage, peak demand, and power availability status |
 
-A custom **home page** acts as a navigation hub with key national KPIs — total installed capacity (467 GW), annual generation (1,824 BU), peak demand record (250 GW), and energy deficit rate (0.1%).
+A custom **home page** acts as a navigation hub with key national KPIs — total installed capacity (533 GW), annual generation (1,824 BU), peak demand record (250 GW), and energy deficit rate (0.1%).
 
 ---
 
